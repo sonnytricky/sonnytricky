@@ -1,5 +1,5 @@
  <p align="center">
-  <img src=".images/sonnytricky-banner-stark_verkleinert.png" 
+  <img src=".images/sonnytricky-banner-100kb.jpg" 
        alt="Ein Bild"
  </p>
 
