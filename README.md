@@ -1,6 +1,17 @@
-## Hi there 👋
+ <p align="center">
+  <img src=".images/sonnytricky-banner.png" 
+       alt="Ein Bild"
+ </p>
+
+
+
+
+
 
 <!--
+## Hi there 👋
+
+
 **sonnytricky/sonnytricky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
