@@ -12,7 +12,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sonnytricky&show_icons=true&theme=tokyonight)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnytricky&layout=compact&theme=tokyonight&langs_count=10)
+![Stats](https://github-readme-stats.vercel.app/api?username=sonnytricky&show_icons=true&theme=tokyonight&hide=stars)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnytricky&layout=compact&theme=tokyonight&langs_count=10)
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnytricky&layout=compact&theme=tokyonight) -->
 
