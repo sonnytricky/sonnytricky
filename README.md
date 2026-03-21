@@ -24,6 +24,6 @@
 
 ---
 
-![Tech Stack](https://skillicons.dev/icons?i=python,bash,yaml,markdown,git,github,gitea,linux,vscode)
+![Tech Stack](https://skillicons.dev/icons?i=python,bash,yml,markdown,git,github,tea,linux,vscode)
 
 ---
