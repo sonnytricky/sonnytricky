@@ -12,10 +12,10 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sonnytricky&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=sonnytricky&show_icons=true&theme=tokyonight)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnytricky&layout=compact&theme=tokyonight&langs_count=10)
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnytricky&layout=compact&theme=tokyonight) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnytricky&layout=compact&theme=tokyonight&langs_count=10)
+
 ---
 
 ## 🔥 Aktivität
@@ -24,6 +24,6 @@
 
 ---
 
-![Tech Stack](https://skillicons.dev/icons?i=python,bash,yml,markdown,git,github,tea,linux,vscode)
+![Tech Stack](https://skillicons.dev/icons?i=python,cpp,bash,markdown,git,github,linux,raspberrypi,arduino,docker,vscode)
 
 ---
