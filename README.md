@@ -8,7 +8,7 @@
 
 ### 💻 Entwickler | 🚀 Open Source | ⚡ Immer am Lernen  
 
-
+---
 
 ## 📊 GitHub Stats
 
