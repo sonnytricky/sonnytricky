@@ -27,3 +27,7 @@
 ![Tech Stack](https://skillicons.dev/icons?i=python,cpp,bash,markdown,git,github,linux,raspberrypi,arduino,docker,vscode)
 
 ---
+
+🏆 [Meine GitHub Achievements](https://github.com/users/sonnytricky/achievements)
+
+---
