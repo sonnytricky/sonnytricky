@@ -6,7 +6,7 @@
 
 # 👋 Hi, ich bin Sonny
 
-### 💻 💻 Entwickler | 🚀 Open Source | ⚡ Self-Hosted  
+### 💻 Entwickler | 🚀 Open Source | ⚡ Self-Hosted  
 
 ---
 
