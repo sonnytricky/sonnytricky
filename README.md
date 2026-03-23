@@ -12,7 +12,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sonnytricky&show_icons=true&theme=tokyonight&hide=stars)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnytricky&layout=compact&theme=tokyonight&langs_count=10)
+![Stats](https://github-readme-stats.vercel.app/api?username=sonnytricky&show_icons=true&theme=tokyonight&hide=stars&cache_seconds=0)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnytricky&layout=compact&theme=tokyonight&langs_count=10&cache_seconds=0)
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnytricky&layout=compact&theme=tokyonight) -->
 
@@ -20,7 +20,7 @@
 
 ## 🔥 Aktivität
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonnytricky&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonnytricky&theme=tokyonight&cache_seconds=0)
 
 ---
 
