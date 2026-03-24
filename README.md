@@ -14,8 +14,8 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sonnytricky&show_icons=true&theme=tokyonight&hide=stars&count_private=true&v=4) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnytricky&theme=tokyonight&langs_count=10&count_private=true&v=6)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonnytricky&show_icons=true&theme=tokyonight&hide=stars&count_private=true&v=4"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonnytricky&theme=tokyonight&langs_count=10&count_private=true&v=6"/>
+<img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=sonnytricky&show_icons=true&theme=tokyonight&hide=stars&count_private=true&v=4"/>
+<img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonnytricky&theme=dark&langs_count=10&count_private=true&v=6"/>
 
 ---
 
