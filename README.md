@@ -30,9 +30,3 @@
 🏆 [Meine GitHub Achievements](https://github.com/users/sonnytricky/achievements)
 
 ---
-<<<<<<< HEAD
-=======
-
-
-
->>>>>>> 51b762e (neu)
