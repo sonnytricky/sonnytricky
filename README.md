@@ -20,6 +20,7 @@
 ![Stats](https://github-readme-stats-cp51cc8ya-sonnytrickys-projects.vercel.app/api?username=sonnytricky&v=1)
 ![Stats](https://github-readme-stats-cp51cc8ya-sonnytrickys-projects.vercel.app/api?username=sonnytricky&t=2)
 ![Stats](https://github-readme-stats-cp51cc8ya-sonnytrickys-projects.vercel.app/api?username=sonnytricky&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-cp51cc8ya-sonnytrickys-projects.vercel.app/api?username=sonnytricky&v=2)
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnytricky&size_weight=0.5&count_weight=0.5&theme=radical&langs_count=10&count_private=true&v=6) -->
 <!-- ![Top Languages](https://github-readme-stats-mr7lqhua2-sonnytrickys-projects.vercel.app/api/top-langs/?username=sonnytricky&size_weight=0.5&count_weight=0.5&theme=radical&langs_count=10&count_private=true) -->
