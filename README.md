@@ -30,8 +30,8 @@
 
 
 
-<!-- layout=compact -->
----
+<!-- layout=compact 
+----->
 
 ## 🔥 Aktivität
 
