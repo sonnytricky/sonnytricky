@@ -36,7 +36,7 @@
 
 ## 🔥 Aktivität
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonnytricky&theme=radical&cache_seconds=0)
+<!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonnytricky&theme=radical&cache_seconds=0) -->
 ---
 
 ![Tech Stack](https://skillicons.dev/icons?i=javascript,bash,markdown,git,github,linux,debian,raspberrypi,arduino,docker,vscode)
