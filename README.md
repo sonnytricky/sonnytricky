@@ -6,7 +6,7 @@
 
 # 👋 Hi, ich bin Sonny
 
-### 💻 Developer | 🌐 Self-Hosting Enthusiast | 🚀 Open Source 
+### 💻 Developer | 🌐 Self-Hosting Enthusiast | 🚀 Open Source Lover | 🐧 Linux User
 
 ---
 

@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=sonnytricky&show_icons=true&theme=radical&hide=stars
+          options: username=sonnytricky&show_icons=true&theme=radical&hide=stars&count_private=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=sonnytricky&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical&langs_count=10
+          options: username=sonnytricky&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical&langs_count=10&count_private=true
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
