@@ -14,7 +14,7 @@
 
 <p>
   <img src="./profile/stats.svg" height="180"/>
-  <img src="./profile/top-langs.svg" height="220"/>
+  <img src="./profile/top-langs.svg" height="230"/>
 </p>
 
 
