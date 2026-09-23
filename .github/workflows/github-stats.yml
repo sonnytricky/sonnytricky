@@ -22,7 +22,8 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: "username=sonnytricky&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+          options: "username=sonnytricky&show_icons=true&theme=radical&count_private=true" 
+          # &hide=stars&include_all_commits=true
           path: profile/stats.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
