@@ -20,12 +20,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: >-
-            username=sonnytricky
-            &show_icons=true
-            &theme=radical
-            &hide=stars
-            &include_all_commits=true
+          options: "username=sonnytricky&show_icons=true&theme=radical&hide=stars&include_all_commits=true"
           path: profile/stats.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
@@ -33,13 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: >-
-            username=sonnytricky
-            &size_weight=0.5
-            &count_weight=0.5
-            &layout=compact
-            &theme=radical
-            &langs_count=10
+          options: "username=sonnytricky&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical&langs_count=10"
           path: profile/top-langs.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
@@ -54,4 +43,3 @@ jobs:
             git commit -m "Update GitHub stats"
 
           git push
-
