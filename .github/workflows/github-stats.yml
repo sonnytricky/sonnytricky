@@ -31,7 +31,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: "username=sonnytricky&layout=compact&theme=radical&langs_count=10&count_private=true"
+          options: "username=sonnytricky&layout=compact&theme=radical&include_all_commits=true&langs_count=10&count_private=true"
           path: profile/top-langs.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
